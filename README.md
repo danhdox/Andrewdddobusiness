@@ -14,8 +14,8 @@
 
 - 🎬 **[Haven Proto](https://www.creatorhaven.lol/)**: AI-native video editing system built around structured context, agent orchestration, and durable creative workflows.
 - 🎾 **[Rallio](https://www.rallio.lol/)**: Tennis-focused mobile app for match analysis, video workflows, and player performance tooling.
-- 📝 **Melo V2**: AI-powered note-taking app for capturing, organizing, and expanding ideas.
-- 🎮 **DRILLWAKE**: An iOS mining adventure about drilling deeper, upgrading your rig, and surviving what lies below.
+- 📝 [**Mealo**](https://apps.apple.com/au/app/mealo-meal-planner/id6756686048): AI-powered note-taking app for capturing, organizing, and expanding ideas.
+- 🎮 [**Drillwake**](https://apps.apple.com/au/app/drillwake/id6791994787): An iOS mining adventure about drilling deeper, upgrading your rig, and surviving what lies below.
 
 ## Shadow-Realmed Projects
 
